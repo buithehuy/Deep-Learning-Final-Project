@@ -1,7 +1,9 @@
 # Neural Machine Translation with Transformer
 
+## [Báo cáo](https://github.com/buithehuy/Deep-Learning-Final-Project/blob/main/report_deep_learning.pdf)
+
 ## Mô Tả
-### [Báo cáo](https://github.com/buithehuy/Deep-Learning-Final-Project/blob/main/report_deep_learning.pdf)
+
 Mô hình dịch máy sử dụng Transformer, hỗ trợ dịch hai chiều giữa ngôn ngữ Tiếng Anh và Tiếng Việt. 
 Dự án cung cấp các tính năng sau:
 
