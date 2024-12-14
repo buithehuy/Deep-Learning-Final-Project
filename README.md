@@ -22,7 +22,7 @@ Dự án cung cấp các tính năng sau:
 ## Cài Đặt
 
 ### Chạy Trên Colab
-Mở Google Colab tại [Google Colab](https://colab.research.google.com/drive/1-OnM7f9vhCPDcbbdz9ZVU5b0OZm_SDjB?usp=sharing).
+Lưu bản sao mã nguồn trên Google Colab tại [My Google Colab](https://colab.research.google.com/drive/1-OnM7f9vhCPDcbbdz9ZVU5b0OZm_SDjB?usp=sharing).
 ### Chạy Demo
 Tải models và fields tại [My Drive](https://drive.google.com/drive/u/0/folders/1bWe5KCLLdnhJ19in5LwVjZ02ARQLrY4_)
 Chạy các tất cả các phần ngoại trừ phần **Train**
