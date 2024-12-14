@@ -6,8 +6,8 @@ Mô hình dịch máy sử dụng Transformer, hỗ trợ dịch hai chiều gi�
 Dự án cung cấp các tính năng sau:
 
 - **Loại mô hình**: Transformer.
-- **Ngôn ngữ hỗ trợ**: Anh ↔ Việt, có thể tùy chỉnh.  
-Dữ liệu sử dụng khi huấn luyện được lấy từ [PhoMT](https://github.com/VinAIResearch/PhoMT)  
+- **Ngôn ngữ hỗ trợ**: Anh ↔ Việt, có thể tùy chỉnh.
+- **Dữ liệu**: Sử dụng khi huấn luyện được lấy từ [PhoMT](https://github.com/VinAIResearch/PhoMT)  
 [PhoMT: A High-Quality and Large-Scale Benchmark Dataset for Vietnamese-English Machine Translation](https://research.vinai.io/phomt-a-high-quality-and-large-scale-benchmark-dataset-for-vietnamese-english-machine-translation/)
 ---
 
